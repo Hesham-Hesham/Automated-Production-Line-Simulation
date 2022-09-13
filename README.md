@@ -13,3 +13,6 @@
 
 > **You can watch the full run video** [here](https://drive.google.com/file/d/1nO1mARgPzum9P7iFB1YmgwzHFOrO7etD/view?usp=sharing).
 
+$$
+  \infty^\infty\infty  
+$$
