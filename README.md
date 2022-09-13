@@ -16,18 +16,7 @@
  2. FACTORY I/O was used for enviroment setup, realtime debugging, and integrated process simulation
     
 
-## Full Run Video
+# Full Run Video
 
 > **You can watch the full run video** [here](https://drive.google.com/file/d/1nO1mARgPzum9P7iFB1YmgwzHFOrO7etD/view?usp=sharing).
 
-
-
-
-
-
-
-
-
-$$
-  \int_0^\infty\infty  dt 
-$$
